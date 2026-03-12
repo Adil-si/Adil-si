@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, ich bin Bleach Si 👋
+
 
 - 🔭 Umschulung zum Fachinformatiker Anwendungsentwicklung
 - 💻 Fokus: C#, ASP.NET, JavaScript, TypeScript

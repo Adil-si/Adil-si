@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Hi there, I'm Adil
 
 - 🔭 Umschulung zum Fachinformatiker Anwendungsentwicklung
 - 💻 Fokus: C#, ASP.NET, JavaScript, TypeScript, Python, HTML, CSS
@@ -36,3 +36,22 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
 </p>
+
+
+
+
+## 📊 GitHub Statistiken
+
+| Stats | Top Languages |
+|-------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adil-si&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-si&layout=pie&theme=dark) |
+
+## 📈 Aktivität
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adil-si&theme=dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adil-si&theme=react-dark)
+
+## 🎯 Meine Projekte
+
+- 🎫 **TicketSystem** - Ticket-Management System (C#, ASP.NET Core)

@@ -42,16 +42,11 @@
 
 ## 📊 GitHub Statistiken
 
-| Stats | Top Languages |
-|-------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adil-si&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-si&layout=pie&theme=dark) |
+<div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Adil-si&show_icons=true&theme=dark&hide_border=true&title_size=12" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-si&layout=compact&theme=dark&hide_border=true" />
+</div>
 
-## 📈 Aktivität
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adil-si&theme=dark&hide_border=true&background=00000000)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adil-si&theme=dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adil-si&theme=react-dark)
-
-## 🎯 Meine Projekte
-
-- 🎫 **TicketSystem** - Ticket-Management System (C#, ASP.NET Core)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adil-si&theme=react-dark&height=150&bg_color=00000000&hide_border=true)

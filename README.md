@@ -39,14 +39,11 @@
 
 
 
-
-## 📊 GitHub Statistiken
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Adil-si&show_icons=true&theme=dark&hide_border=true&title_size=12" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-si&layout=compact&theme=dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-si&theme=dark&hide_border=true&background=00000000" />
+  <img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adil-si&theme=react-dark&height=150&bg_color=00000000&hide_border=true" />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adil-si&theme=dark&hide_border=true&background=00000000)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adil-si&theme=react-dark&height=150&bg_color=00000000&hide_border=true)

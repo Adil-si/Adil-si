@@ -17,27 +17,26 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-## 📚 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Relational%20Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Relational Databases" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-## 🎯 Goals
-
-<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
 </p>
 
+## 📚 Current Focus
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Genero%204JS-0078D4?style=for-the-badge&logoColor=white" alt="Genero 4JS" />
+  <img src="https://img.shields.io/badge/Genero%20BDL-00599C?style=for-the-badge&logoColor=white" alt="Genero BDL" />
+  <img src="https://img.shields.io/badge/IBM%20Informix-1F70C1?style=for-the-badge&logoColor=white" alt="IBM Informix" />
+</p>
+
+Aktuell beschäftige ich mich mit der Entwicklung datenbankgestützter Geschäftsanwendungen mit **Genero BDL (Four Js)** und **IBM Informix**.
+
+## 🎯 Goals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ERP%20Development-0A66C2?style=for-the-badge&logoColor=white" alt="ERP Development" />
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -45,5 +44,3 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-si&theme=dark&hide_border=true&background=00000000" />
   <img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adil-si&theme=react-dark&height=150&bg_color=00000000&hide_border=true" />
 </div>
-
-

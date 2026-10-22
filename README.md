@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Adil
 
+- 🏢 Aktuell im Praktikum bei **LUTZ Büro- und Datentechnik GmbH**
 - 🔭 Umschulung zum Fachinformatiker Anwendungsentwicklung
-- 💻 Fokus: C#, ASP.NET, JavaScript, TypeScript, Python, HTML, CSS
-- 🗄️ Interesse an moderner Webentwicklung, Datenbanken und praxisnahen Softwareprojekten
-
+- 💻 Current Focus: **Genero BDL (Four Js)** und **IBM Informix**
+- 🗄️ Interesse an Webentwicklung, Datenbanken und ERP-Systemen
 ## 🛠 Tech-Stack
 
 <p align="center">
@@ -40,7 +40,6 @@ Aktuell beschäftige ich mich mit der Entwicklung datenbankgestützter Geschäft
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-si&theme=dark&hide_border=true&background=00000000" />
-  <img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adil-si&theme=react-dark&height=150&bg_color=00000000&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adil-si&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
